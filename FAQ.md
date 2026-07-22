@@ -58,10 +58,18 @@ Yes. Every tool's knobs, palettes, the material and recents, named palettes, and
 presets are saved to `config/compbuildtools-settings.json` and restored next
 launch.
 
-### Is this Axiom?
+### Is Studio Tools free?
 
-No. It's **original work**, not affiliated with Axiom — a separate editor built
-for the Compbuild community. It's in **beta**; expect bugs, and more is coming.
+Yes.
+
+Studio Tools is free to use for personal and commercial Minecraft projects,
+including public servers, commissions, content creation, and professional
+builds.
+
+There are no commercial licensing fees required to use Studio Tools.
+
+See the repository's LICENSE file for details about permitted use and
+redistribution.
 
 ### How do I report a bug?
 
